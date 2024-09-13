@@ -1,7 +1,36 @@
 .banner{
     background-image: url("../img/banner.jpg");
-    padding: 25%;
+    padding: 10%;
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
 }
+
+.banner p{
+    color: rgb(2, 26, 47);
+    font-size: 25px;
+}
+
+.container{
+    padding: 100px 250px 200px;
+}
+.footer {
+    
+    background-color: #63c6ed;
+    
+}
+.footer img {
+    width: 100px;
+    height: 80px;
+}
+.login-container {
+    padding: 100px 350px 200px;
+}
+.larger-text a {
+    font-size: 25px;
+    font-weight: bold;
+    color: #404248;
+}
+
+
+
